@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-   <img align="center" alt="Cesar-Cisco" height="100" width="60" src="cisco.jpg">
+   <img align="center" alt="Cesar-Cisco" height="100" width="100" src="cisco.jpg">
 </p>
 
 > 🌱👨‍💻 - Establishing a GitHub repository at FIAP for Networking Fundamentals and Security. Aimed at sharing and documenting optimization practices, it serves as a valuable resource for reviews and collaborations, fostering developer growth in Networking and Security studies.
