@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-   <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <img align="center" alt="Cesar-Cisco" height="100" width="60" src="cisco.jpg">
 </p>
 
 > 🌱👨‍💻 - Establishing a GitHub repository at FIAP for Networking Fundamentals and Security. Aimed at sharing and documenting optimization practices, it serves as a valuable resource for reviews and collaborations, fostering developer growth in Networking and Security studies.
